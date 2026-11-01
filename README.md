@@ -1,102 +1,134 @@
-<!-- 🌸 BANNER PRINCIPAL -->
-<p align="center">
-  <img src="assets/banner-github.png" width="100%" alt="Lupita - Pink Hacker"/>
-</p>
+<div align="center">
 
-<!-- 💗 ANIMACIÓN DE TEXTO -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF79C6&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Lupita+%F0%9F%92%97;Ingenier%C3%ADa+en+Sistemas;Desarrollo+%7C+Bases+de+Datos;Redes+%7C+Ciberseguridad" alt="Animación de texto"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0b14,60:5b2a6e,100:ff79c6&height=220&section=header&text=Guadalupe%20Vel%C3%A1zquez%20L%C3%B3pez&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Ingenier%C3%ADa%20en%20Sistemas%20Computacionales&descSize=18&descAlignY=58" width="100%" alt="banner" />
 
-<h2 align="center">💗 Tecnologías y herramientas</h2>
+**Aprender &nbsp;·&nbsp; Desarrollar &nbsp;·&nbsp; Crear**
 
-<h3 align="center">💻 Desarrollo</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-FF79C6?style=for-the-badge&logo=python&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Java-FF79C6?style=for-the-badge&logo=openjdk&logoColor=black"/>
-  <img src="https://img.shields.io/badge/JavaScript-FF79C6?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PHP-FF79C6?style=for-the-badge&logo=php&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Haskell-FF79C6?style=for-the-badge&logo=haskell&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Prolog-FF79C6?style=for-the-badge"/>
-  <br/>
-  <img src="https://img.shields.io/badge/HTML5-BD93F9?style=for-the-badge&logo=html5&logoColor=black"/>
-  <img src="https://img.shields.io/badge/CSS3-BD93F9?style=for-the-badge&logo=css3&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Flask-BD93F9?style=for-the-badge&logo=flask&logoColor=black"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=FF79C6&center=true&vCenter=true&width=450&lines=Dream+big%2C+code+more+%E2%99%A1;Siempre+aprendiendo...;Construyendo+conocimientos%2C+un+proyecto+a+la+vez+%F0%9F%9A%80" alt="typing" />
 
-<h3 align="center">🗄️ Bases de datos</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-FF79C6?style=for-the-badge&logo=mysql&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-FF79C6?style=for-the-badge&logo=postgresql&logoColor=black"/>
-</p>
+</div>
 
-<h3 align="center">🌐 Redes</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Cisco-FF79C6?style=for-the-badge&logo=cisco&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Networking-BD93F9?style=for-the-badge&logo=cisco&logoColor=black"/>
-</p>
+<br>
 
-<h3 align="center">🔐 Ciberseguridad</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity-BD93F9?style=for-the-badge&logo=kalilinux&logoColor=black"/>
-</p>
+<table>
+<tr>
+<!-- ============ COLUMNA IZQUIERDA ============ -->
+<td width="30%" valign="top" align="center">
 
-<h3 align="center">🛠️ Herramientas</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-FF79C6?style=for-the-badge&logo=git&logoColor=black"/>
-  <img src="https://img.shields.io/badge/GitHub-FF79C6?style=for-the-badge&logo=github&logoColor=black"/>
-  <img src="https://img.shields.io/badge/VS_Code-BD93F9?style=for-the-badge&logo=visualstudiocode&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Linux_Mint-BD93F9?style=for-the-badge&logo=linuxmint&logoColor=black"/>
-  <img src="https://img.shields.io/badge/VirtualBox-BD93F9?style=for-the-badge&logo=virtualbox&logoColor=black"/>
-</p>
+<img src="https://github.com/LupitaDev.png" width="200" alt="Lupita" />
+
+### Guadalupe Velázquez López
+**LupitaDev**
+
+![Estudiante de ISC](https://img.shields.io/badge/🎓_Estudiante_de_ISC-1a1625?style=for-the-badge&labelColor=1a1625&color=ff79c6)
 
 ---
 
-<h2 align="center">🌱 Actualmente aprendiendo</h2>
-<p align="center">
-  💗 Redes y administración de sistemas
-  <br/>
-  💗 Linux y servidores
-  <br/>
-  💗 Computación en la nube
-  <br/>
-  💗 Fundamentos de ciberseguridad
+📍 Xalapa, Veracruz, México  
+✉️ guadalupe.velazquez@...  
+💼 [linkedin.com/in/guadalupe-velazquez-lopez](https://linkedin.com/in/guadalupe-velazquez-lopez)  
+🐙 [@LupitaDev](https://github.com/LupitaDev)
+
+<br>
+
+*Siempre aprendiendo* 💗
+
+</td>
+
+<!-- ============ COLUMNA DERECHA ============ -->
+<td width="70%" valign="top">
+
+## ✦ ¡Hola! Soy Lupita 👋
+
+> Soy estudiante de Ingeniería en Sistemas Computacionales, apasionada por el desarrollo de software, la administración de sistemas y las tecnologías de redes. Me gusta aprender por mi cuenta y convertir la teoría en proyectos prácticos que me acerquen al mundo tech.
+>
+> Actualmente estoy fortaleciendo mis conocimientos en redes, Linux, servidores, computación en la nube y ciberseguridad.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 💻 Tecnologías y Herramientas
+
+<p>
+  <img src="https://img.shields.io/badge/Python-1a1625?style=for-the-badge&logo=python&logoColor=ff79c6" />
+  <img src="https://img.shields.io/badge/Java-1a1625?style=for-the-badge&logo=openjdk&logoColor=ff79c6" />
+  <img src="https://img.shields.io/badge/JavaScript-1a1625?style=for-the-badge&logo=javascript&logoColor=ff79c6" />
+  <img src="https://img.shields.io/badge/PHP-1a1625?style=for-the-badge&logo=php&logoColor=ff79c6" />
+  <img src="https://img.shields.io/badge/Haskell-1a1625?style=for-the-badge&logo=haskell&logoColor=ff79c6" />
+  <img src="https://img.shields.io/badge/Prolog-1a1625?style=for-the-badge&logoColor=ff79c6" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-1a1625?style=for-the-badge&logo=html5&logoColor=ff79c6" />
+  <img src="https://img.shields.io/badge/CSS3-1a1625?style=for-the-badge&logo=css3&logoColor=ff79c6" />
+  <img src="https://img.shields.io/badge/Flask-1a1625?style=for-the-badge&logo=flask&logoColor=ff79c6" />
+  <img src="https://img.shields.io/badge/MySQL-1a1625?style=for-the-badge&logo=mysql&logoColor=ff79c6" />
+  <img src="https://img.shields.io/badge/PostgreSQL-1a1625?style=for-the-badge&logo=postgresql&logoColor=ff79c6" />
+  <img src="https://img.shields.io/badge/Linux_Mint-1a1625?style=for-the-badge&logo=linuxmint&logoColor=ff79c6" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Git-1a1625?style=for-the-badge&logo=git&logoColor=ff79c6" />
+  <img src="https://img.shields.io/badge/GitHub-1a1625?style=for-the-badge&logo=github&logoColor=ff79c6" />
+  <img src="https://img.shields.io/badge/VirtualBox-1a1625?style=for-the-badge&logo=virtualbox&logoColor=ff79c6" />
+  <img src="https://img.shields.io/badge/VS_Code-1a1625?style=for-the-badge&logo=visualstudiocode&logoColor=ff79c6" />
 </p>
 
----
+<br>
 
-<h2 align="center">📊 Estadísticas de GitHub</h2>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Lupita1605&show_icons=true&bg_color=0D1117&title_color=FF79C6&icon_color=BD93F9&text_color=FFFFFF&border_color=FF79C6&hide_border=false"/>
-</p>
+## 🧠 Actualmente aprendiendo
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lupita1605&layout=compact&bg_color=0D1117&title_color=FF79C6&text_color=FFFFFF&border_color=FF79C6"/>
-</p>
+- [ ] Redes de computadoras
+- [ ] Administración de Linux y servidores
+- [ ] Computación en la nube (Google Cloud)
+- [ ] Ciberseguridad
 
-<h2 align="center">⚡ Mi actividad</h2>
+`$ keep learning... ♡`
 
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Lupita1605&bg_color=0D1117&color=FF79C6&line=BD93F9&point=FF79C6&area=true&hide_border=true"/>
-</p>
+</td>
+<td width="50%" valign="top">
 
----
+## ⭐ Un poco más sobre mí
 
-<h2 align="center">💌 Encuéntrame</h2>
-<p align="center">
-  <a href="https://github.com/Lupita1605">
-    <img src="https://img.shields.io/badge/GitHub-Lupita1605-FF79C6?style=for-the-badge&logo=github&logoColor=black"/>
-  </a>
-  <a href="https://www.linkedin.com/in/guadalupe-velazquez-lopez/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-BD93F9?style=for-the-badge&logo=linkedin&logoColor=black"/>
-  </a>
-</p>
+- 🎓 Ingeniería en Sistemas Computacionales
+- 💗 Me encanta la tecnología, los gatos y el fútbol ⚽
+- ✨ Disfruto resolver problemas y aprender algo nuevo cada día
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF79C6,100:BD93F9&height=100&section=footer"/>
-</p>
+</td>
+</tr>
+</table>
 
-<p align="center">
-  <i>「 Aprendiendo, explorando y creando 」</i> 💗
-</p>
+<br>
+
+## 📁 Proyectos Destacados
+
+| Proyecto | Descripción | |
+|---|---|---|
+| **Sistema de Cálculo Geométrico** | Aplicación web con Haskell, PHP, HTML, CSS y JS. | [🔗](https://github.com/LupitaDev/NOMBRE-DEL-REPO) |
+| **Diagnóstico de Plantas** (Chile Jalapeño) | App en Python y Prolog para detección de enfermedades. | [🔗](https://github.com/LupitaDev/NOMBRE-DEL-REPO) |
+| **Compatibilidad de Transfusiones** | Sistema en Python, Prolog y Flask. | [🔗](https://github.com/LupitaDev/NOMBRE-DEL-REPO) |
+| **Red Futbolera** | Base de datos y gestión de información. | [🔗](https://github.com/LupitaDev/NOMBRE-DEL-REPO) |
+
+<br>
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=LupitaDev&show_icons=true&hide_border=true&bg_color=0d0b14&title_color=ff79c6&icon_color=ff79c6&text_color=e5d4ee" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LupitaDev&layout=compact&hide_border=true&bg_color=0d0b14&title_color=ff79c6&text_color=e5d4ee" alt="lenguajes" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LupitaDev&bg_color=0d0b14&color=ff79c6&line=ff79c6&point_color=ffffff&area=true&area_color=ff79c6&hide_border=true" width="100%" alt="actividad" />
+
+<br>
+
+**Construyendo conocimientos, un proyecto a la vez** 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0b14,100:ff79c6&height=100&section=footer" width="100%" alt="footer" />
+
+</div>
