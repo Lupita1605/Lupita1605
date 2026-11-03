@@ -39,7 +39,9 @@ Estudiante de Ingeniería en Sistemas Computacionales.
 
 <td width="70%" valign="top">
 
-## ✨ Sobre mí
+<p align="center">
+  <img src="https://img.shields.io/badge/✦%20SOBRE%20MÍ-FF79C6?style=for-the-badge&labelColor=0D1117" />
+</p>
 
 Soy estudiante de Ingeniería en Sistemas Computacionales, interesada en comprender cómo funcionan los sistemas y las tecnologías que hacen posible el mundo digital.
 
