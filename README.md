@@ -75,7 +75,9 @@ Me interesa la creación de aplicaciones y sistemas, la resolución de problemas
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 </p>
 
-## 🗄️ 02. Bases de datos
+<p align="center">
+  <img src="https://img.shields.io/badge/02%20%2F%2F%20BASES%20DE%20DATOS-BD93F9?style=for-the-badge&labelColor=0D1117"/>
+</p>
 
 Me interesa el diseño y la administración de bases de datos, la organización de información y la creación de consultas para gestionar datos de manera eficiente.
 
