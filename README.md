@@ -18,7 +18,7 @@
 <tr>
 <td width="30%" align="center" valign="top">
 
-<img src="assetsfoto-perfil.png" width="170" alt="Foto de Lupita"/>
+<img src="foto-perfil.png" width="170" alt="Foto de Lupita"/>
 
 <h3>Guadalupe Velázquez López</h3>
 
